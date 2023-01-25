@@ -1,4 +1,4 @@
-# Sysmon XML to CSV
+# Sysmon for Linux SYSLOG Converter
 ## Usage
 ```
 $ php main.php [SYSLOG] [OUTPUT]
